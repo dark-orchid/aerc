@@ -1,0 +1,29 @@
+*.default = true
+*.normal = true
+
+default.fg = #d4d4d8
+
+tab.italic = true
+#tab.bg = #7300ff
+tab.fg = #71717a
+tab.selected.fg = #000000
+tab.selected.bg = #7300ff
+
+border.fg = #27272a
+
+msglist_default.selected.fg = #d4d4d8
+msglist_default.selected.bg = #3f3f46
+msglist_unread.bold = true
+
+statusline_default.fg = #71717a
+
+spinner.fg = #71717a
+
+dirlist_default.selected.bold = true
+
+header.fg = #d4d4d8
+title.fg = #d4d4d8
+
+[viewer]
+url.fg = #d4d4d8
+url.underline = true
