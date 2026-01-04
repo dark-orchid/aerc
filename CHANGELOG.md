@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-01-04)
+
+
+### Features
+
+* add config ([7cdb6e6](https://github.com/dark-orchid/aerc/commit/7cdb6e67198e8cfde7627aca3a50d18bf277236f))
+
 ## 1.0.0 (2025-11-24)
 
 
